@@ -138,6 +138,7 @@ footer {
   border-radius: 36px;
   box-shadow: var(--light-shadow);
   font-size: 0.7rem;
+  transition: var(--transition);
 }
 .btn-pink:hover {
   opacity: 0.6;
