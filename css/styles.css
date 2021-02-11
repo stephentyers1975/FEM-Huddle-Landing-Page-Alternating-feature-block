@@ -139,6 +139,9 @@ footer {
   box-shadow: var(--light-shadow);
   font-size: 0.7rem;
 }
+.btn-pink:hover {
+  opacity: 0.6;
+}
 .hero-right {
   padding: 0 0.8rem;
 }
